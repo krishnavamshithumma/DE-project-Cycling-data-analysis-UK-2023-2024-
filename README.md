@@ -22,7 +22,7 @@ Provides actionable insights for city planners to:
 4. **Spark** (optinal, only if you want to experiment with jupyter notebook)
 
 ## 🚀 Deployment Architecture
-![Architecture Diagram](https://via.placeholder.com/800x400.png?text=GCP+Architecture+Diagram) <!-- Replace with actual diagram -->
+![Architecture Diagram](images/architecture.png) <!-- Replace with actual diagram -->
 
 ## ⚙️ Setup Guide
 
@@ -97,7 +97,7 @@ gsutil cp bigquery.py gs://<BUCKET>/code/
 ```
 
 ## 💊 Visualization Example
-Sample Visualization <!-- Add actual screenshot -->
+![Cycling Data Insights](images/visualization.png)
 
 ## 🧹 Cleanup
 ```bash
