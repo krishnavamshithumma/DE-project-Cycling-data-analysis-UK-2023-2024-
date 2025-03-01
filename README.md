@@ -19,6 +19,7 @@ Provides actionable insights for city planners to:
 2. **Terraform** (v1.5.0+)
 3. **Python** (3.8+)
 4. **Apache Airflow** (2.6.0+)
+4. **Spark** (optinal, only if you want to experiment with jupyter notebook)
 
 ## 🚀 Deployment Architecture
 ![Architecture Diagram](https://via.placeholder.com/800x400.png?text=GCP+Architecture+Diagram) <!-- Replace with actual diagram -->
@@ -28,7 +29,7 @@ Provides actionable insights for city planners to:
 ### 1. Infrastructure Setup (Terraform)
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/cycling-data-analysis-uk.git
+git clone https://github.com/krishnavamshithumma/DE-project-Cycling-data-analysis-UK-2023-2024-.git
 cd terraform/
 
 # Initialize Terraform
